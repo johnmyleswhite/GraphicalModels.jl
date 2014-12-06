@@ -1,6 +1,12 @@
 GraphicalModels.jl
 ==================
 
+# NOTICE
+
+**This package is unmaintained. Its reliability is not guaranteed.**
+
+# Introduction
+
 Parse graphical models using a BUGS-like notation and represent the models as Julian data structures:
 
 	using GraphicalModels
